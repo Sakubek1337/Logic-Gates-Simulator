@@ -1,6 +1,6 @@
 # Logic Gates Simulator
 
-## by Mamberkadyrov Salamatbek
+## by Mambetkadyrov Salamatbek
 
 For: Digital Electronics course final project. <br>
 Language: Java <br>
